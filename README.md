@@ -17,5 +17,6 @@ This project is based on IBM HR Analytics to analyze employee attrition and perf
 1. **Clone this repo**:
    ```bash
    git clone https://github.com/Shaik-Farida/IBM-HR-Analytics-Employee-Attrition-Performance.git
+   
    cd IBM-HR-Analytics-Employee-Attrition-Performance
 
